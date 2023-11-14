@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/product-list/static/css/main.241951ba.css",
+    "main.js": "/product-list/static/js/main.f5af10d5.js",
+    "static/media/apple.png": "/product-list/static/media/apple.559621cefc7e89ca2f1f.png",
+    "static/media/redmi.png": "/product-list/static/media/redmi.d30d18a76870e4068b0b.png",
+    "static/media/huawei.png": "/product-list/static/media/huawei.62a4694a51939c296227.png",
+    "static/media/samsung.png": "/product-list/static/media/samsung.ec6709b2e9bd47c7a704.png",
+    "static/media/nokia.png": "/product-list/static/media/nokia.dd5400b499c0900bff2d.png",
+    "index.html": "/product-list/index.html",
+    "main.241951ba.css.map": "/product-list/static/css/main.241951ba.css.map",
+    "main.f5af10d5.js.map": "/product-list/static/js/main.f5af10d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.f5af10d5.js"
+  ]
+}
